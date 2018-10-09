@@ -1,2 +1,2 @@
-str="Hello World"
-print(str)
+str="Hello World"  #string initialisation
+print(str)         #print the string
