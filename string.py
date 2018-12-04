@@ -1,0 +1,17 @@
+j="Hello World"
+print(j)
+print(j[2])
+print(len(j))
+print(j[1:4])
+print(j[1:])
+print(j[:])
+print(j[:7])
+s=j.find('el')
+print(s)
+print(j.replace('el','ab'))
+print(j.upper())
+print(j.lower())
+print(j.count('l'))
+print(j.index('l'))
+j=j+'xyz'
+print(j)

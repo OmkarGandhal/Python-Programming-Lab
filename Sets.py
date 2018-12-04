@@ -1,0 +1,13 @@
+X=set('spam')
+Y={'a','h','m'}
+print(X,Y)
+print(X&Y)
+print(X|Y)
+print(X-Y)
+print(Y-X)
+print(X^Y)
+print('p' in set('spam'))
+X.add('d')
+print(X)
+Y.remove('m')
+print(Y)
